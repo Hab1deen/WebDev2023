@@ -1,7 +1,24 @@
-.profile {
-    border-radius: 50%;
-    width: 300px;
+h1 {
+    color: #A73121;
+    font-size: 100px;  
 }
-body {
-    background-color: antiquewhite;
+
+img {
+    background-color: #C08261;
+}
+
+img:hover {
+    background-color: #F8DE22;
+}
+
+.bacon {
+    background-color: #E25E3E;
+}
+
+.broccoli {
+    background-color:  greenyellow;
+}
+
+.circular {
+    border-radius: 100%;
 }
